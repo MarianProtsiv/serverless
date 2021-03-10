@@ -1,8 +1,8 @@
 {
   "name": "auth-service",
   "version": "1.0.0",
-  "author": "Ariel Weinberger <ariel@codingly.io>",
-  "description": "Demonstration of protecting API gateway endpoints with auth0",
+  "description": "Serverless Course Auth Service",
+  "author": "Marian Protsiv",
   "license": "MIT",
   "dependencies": {
     "jsonwebtoken": "^8.1.0"
